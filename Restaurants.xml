@@ -1,0 +1,92 @@
+<CHD_DINER>
+	<MenuItem>
+		<Item>Cheeseburger</item>
+		<Menu>0</Menu>
+		<Price>2.79</Price>
+	</MenuItem>
+	<MenuItem>	
+		<Item>Hamburger</item>
+		<Menu>0</Menu>
+		<Price>2.59</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Hotdog</item>
+		<Menu>0</Menu>
+		<Price>1.59</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Taco</item>
+		<Menu>0</Menu>
+		<Price>1.29</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Fries</item>
+		<Menu>1</Menu>
+		<Price>0.99</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Onion Rings</item>
+		<Menu>1</Menu>
+		<Price>1.29</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Nachos</item>
+		<Menu>1</Menu>
+		<Price>1.49</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Coke</item>
+		<Menu>2</Menu>
+		<Price>0.59</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>7 Up</item>
+		<Menu>2</Menu>
+		<Price>0.59</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Vanilla Shake</item>
+		<Menu>2</Menu>
+		<Price>1.29</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Coffee</item>
+		<Menu>2</Menu>
+		<Price>1.49</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Beer</item>
+		<Menu>2</Menu>
+		<Price>1.49</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Wine</item>
+		<Menu>2</Menu>
+		<Price>1.59</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Donut</item>
+		<Menu>3</Menu>
+		<Price>0.49</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Chocolate-chip Cookies</item>
+		<Menu>3</Menu>
+		<Price>0.79</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Vanilla Ice Cream</item>
+		<Menu>3</Menu>
+		<Price>0.59</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Chocolate Cake</item>
+		<Menu>3</Menu>
+		<Price>1.49</Price>
+	</MenuItem>
+	<MenuItem>
+		<Item>Apple Pie</item>
+		<Menu>3</Menu>
+		<Price>1.49</Price>
+	</MenuItem>
+<CHD_DINER>
